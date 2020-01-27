@@ -1,0 +1,16 @@
+{
+    "name": "phalcon3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Rexsy Oktiana"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "2.7.*",
+        "vlucas/phpdotenv": "~2.0"
+    }
+}
